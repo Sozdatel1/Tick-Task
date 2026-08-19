@@ -1,7 +1,16 @@
-# 📱 Tick-Task
-<!-- Краткий цепляющий слоган или описание в одно предложение -->
-<h3><b>Tick-task</b> — ваш персональный менеджер для планов и работы. Вы можете создавать задачи и напоминания в определённое время.</h3>
 
+
+<div align="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="100" style="vertical-align: middle;">
+  <h1 align="center">✔Tick-Task✔</h1>
+  
+
+<p><b>Создавай. | Планируй. | Выполняй.</b></p>
+
+[![Скачать APK](https://shields.io./badge/Скачать_APK-Tick--Task-orange?style=for-the-badge&logo=android)](https://github.com)
+
+
+</div>
 
 >[!WARNING]
 >**В настоящее время Tick-Task разрабатывается под Android, на iOS он не будет работать.**
