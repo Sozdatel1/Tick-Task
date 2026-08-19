@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EliteToDo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:datePickerDialogTheme">@style/CustomDialogTheme</item>
+        <item name="android:timePickerDialogTheme">@style/CustomDialogTheme</item>
+    </style>
+    <style name="CustomDialogTheme" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:dialogCornerRadius">16dp</item>
+        <!-- 1. Красим кнопки, стрелочки и кружок выделенной даты -->
+        <item name="android:colorControlActivated">#03A9F4</item>
+        <item name="android:textColorPrimary">#000000</item>
+
+        <!-- 2. ЖЕЛЕЗНЫЙ ХАК: Красим верхнюю плашку (хедер) для новых Android -->
+        <item name="android:colorAccent">#03A9F4</item>
+        <item name="android:colorPrimary">#03A9F4</item>
+        <item name="android:headerBackground">#03A9F4</item>
+        <item name="android:numbersBackgroundColor">#FFFFFF</item>
+    </style>
+
+</resources>
