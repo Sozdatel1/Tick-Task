@@ -23,20 +23,15 @@
 
 ---
 
-## 📸 Скриншоты / Демо
-<p align="center">
-  <img src="https://placeholder.com" width="300" title="Главный экран">
-  <img src="https://placeholder.com" width="300" title="Настройки">
-</p>
 
-## ✨ Особенности (Features)
+## ✨ Особенности
 - 🤖Поддерживается не  ниже Android 7
 - 🚀 Быстрая сборка и оптимизация веса APK.
 - 🎨 Современный дизайн в стиле Material You.
 - 🔒 Полная конфиденциальность (данные хранятся локально).
 - 🌓 Поддержка темной и светлой темы (в будущем).
 
-## 🛠️ Стек технологий (Tech Stack)
+## 🛠️ Стек технологий
 - **Язык:** Kotlin / Go
 - **UI:** Jetpack Compose / XML Layouts
 - **Архитектура:** MVVM / Clean Architecture
